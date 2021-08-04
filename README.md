@@ -1,6 +1,6 @@
 Hey Peeps,
 Welcome To Voltar Bot's Github Repo,
-We Have Nothing Here Excpet Our Documentation 
+We Have Nothing Here Except Our Documentation 
 Check Out The Links Below!
 
 # Links
