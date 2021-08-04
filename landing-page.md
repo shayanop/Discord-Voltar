@@ -1,3 +1,10 @@
+/*
+ * Discord Voltar
+ * Copyright (C) 2021 Voltar-Bot
+ * This Software is Licensed Under The MIT License
+ * For more information, see README.md and LICENSE
+*/
+
 # Introduction To Voltar
 - Voltar is One Of The Fastest Pre-Configured Anti Nuke Bot To Protect Your Server From Mallicious Discord Raiders.
 
