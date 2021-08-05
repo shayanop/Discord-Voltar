@@ -1,9 +1,8 @@
 /*
-
-Discord Voltar
-Copyright (C) 2021 Voltar-Bot
-This Software is Licensed Under The MIT License
-For more information, see README.md and LICENSE 
+ * Discord Voltar
+ * Copyright (C) 2021 Voltar-Bot
+ * This Software is Licensed Under The MIT License
+ * For more information, see README.md and LICENSE
 */
 
 # Commands
