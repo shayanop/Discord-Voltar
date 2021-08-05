@@ -6,6 +6,7 @@ Check Out The Links Below!
 
 
 ## Current Status
+<!DOCTYPE html>
 <html>
 <body>
 
@@ -14,6 +15,7 @@ Check Out The Links Below!
 
 </body>
 </html>
+
 
 
 # Links
