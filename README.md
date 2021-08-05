@@ -6,21 +6,7 @@ Check Out The Links Below!
 
 
 ## Current Status
-<html>
-<body>
-<style>
-body {
-  background-color: lightblue;
-}
-</style>
-<embed>
-https://voltar.instatus.com/embed-status/dark-lg
-  </embed>
-<div id="myDIV"></div>
-
-
-</body>
-</html>
+[![ayo](https://voltar.instatus.com/embed-status/dark-lg)](https://voltar.instatus.com/embed-status/dark-lg)
 
 
 # Links
