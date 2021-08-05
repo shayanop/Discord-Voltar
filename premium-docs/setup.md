@@ -1,3 +1,10 @@
+/*
+ * Discord Voltar
+ * Copyright (C) 2021 Voltar-Bot
+ * This Software is Licensed Under The MIT License
+ * For more information, see README.md and LICENSE
+*/
+
 # Setup 
 - Hey Peepo, Setting Up Premium Voltar ~~isnt't Easy~~ its Easy As Hell.
 
