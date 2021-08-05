@@ -5,11 +5,23 @@ Check Out The Links Below!
 - Premium Docs Branch [Here](https://github.com/Voltar-Bot/Discord-Voltar/tree/premium-docs) ***`https://github.com/Voltar-Bot/Discord-Voltar/tree/premium-docs`***
 
 
-## Current Status 
+## Current Status
 <html>
-  <iframe src="https://voltar.instatus.com/embed-status/dark-lg" width="245" height="61" 
+<body>
+<style>
+body {
+  background-color: lightblue;
+}
+</style>
+<h1>Redeem Your Voltar Premium+</h1>
+<iframe src="https://voltar.instatus.com/embed-status/dark-lg" width="245" height="61" 
                       frameBorder="0" scrolling="no" style="border: none;" ></iframe>
+<div id="myDIV"></div>
+
+
+</body>
 </html>
+
 
 # Links
 - [Invite Voltar](https://voltarbot.tech/invite)
