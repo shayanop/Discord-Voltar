@@ -13,9 +13,9 @@ body {
   background-color: lightblue;
 }
 </style>
-<h1>Redeem Your Voltar Premium+</h1>
-<iframe src="https://voltar.instatus.com/embed-status/dark-lg" width="245" height="61" 
-                      frameBorder="0" scrolling="no" style="border: none;" ></iframe>
+<embed>
+https://voltar.instatus.com/embed-status/dark-lg
+  </embed>
 <div id="myDIV"></div>
 
 
